@@ -85,3 +85,5 @@ If you use this code, please cite our work:
 ## 🤝 Acknowledgement
 
 - CICDDoS2019 dataset: https://www.unb.ca/cic/datasets/ddos-2019.html
+- CICIoT2023 dataset: https://www.unb.ca/cic/datasets/IoT2023.html
+- CICIoMT2024 dataset: https://www.unb.ca/cic/datasets/IoMT2024.html
