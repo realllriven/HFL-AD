@@ -12,7 +12,7 @@ We implement and compare various robust aggregation methods, including our propo
 ├── F1.ipynb          # Evaluation script (outputs Accuracy, Precision, Recall, F1-score)
 ├── try1_result/      # Folder to save training results (auto-generated after running try1.ipynb)
 ├── F1/               # Contains validation set data (already pre-processed as .pt files)
-└── data/             # Processed CICDDoS2019 dataset (.csv files after cleaning)
+└── process_data/             # Processed CICDDoS2019 dataset (.csv files after cleaning)
 ```
 
 ## 📝 Dataset Preparation
