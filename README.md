@@ -23,6 +23,11 @@ We implement and compare various robust aggregation methods, including our propo
   - Clean missing values (`NaN`), infinite values (`inf`), and other abnormal data.
 - Validation data is provided in the `F1/` folder
 - All files are preprocessed into `.pt` files.
+- Due to github upload file size limitations, to reproduce the code, please download the dataset used for training in this paper first.
+  - **CICDDoS2019**：https://www.alipan.com/s/f3d3749Q4Mg
+  - **CICIoT2023**：https://www.alipan.com/s/XBbnyavKXWs
+  - **CICIoMT2024**：https://www.alipan.com/s/xewZdH2K9gW
+ 
 
 ## 🛠️ Prerequisites
 
