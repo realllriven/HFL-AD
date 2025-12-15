@@ -24,9 +24,7 @@ We implement and compare various robust aggregation methods, including our propo
 - Validation data is provided in the `F1/` folder
 - All files are preprocessed into `.pt` files.
 - Due to github upload file size limitations, to reproduce the code, please download the dataset used for training in this paper first.
-  - **CICDDoS2019**：https://www.alipan.com/s/f3d3749Q4Mg
-  - **CICIoT2023**：https://www.alipan.com/s/XBbnyavKXWs
-  - **CICIoMT2024**：https://www.alipan.com/s/xewZdH2K9gW
+  - 百度网盘：https://pan.baidu.com/s/1grQa1Ky-bNXrbCkq0CVnFA?pwd=hhm4 提取码: hhm4
  
 
 ## 🛠️ Prerequisites
@@ -84,7 +82,7 @@ We implement and compare various robust aggregation methods, including our propo
 
 ## 📚 Citation
 
-If you use this code, please cite our work:
+If you use this code, please cite our work: J. Gui, R. Ji, H. Huang, J. Hong and C. Hua, "Solving Data Contamination in DDoS Detection: A Method Based on Hierarchical Federated Learning," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 7013-7028, 2025, doi: 10.1109/TIFS.2025.3587185. 
 
 
 ## 🤝 Acknowledgement
